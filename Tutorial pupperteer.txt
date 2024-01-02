@@ -1,0 +1,2 @@
+O site abaixo contém o tutorial de como configurar o pupperteer :
+https://brightdata.com/blog/how-tos/web-scraping-puppeteer
